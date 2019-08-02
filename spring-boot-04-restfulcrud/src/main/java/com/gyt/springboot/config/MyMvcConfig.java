@@ -2,6 +2,8 @@ package com.gyt.springboot.config;
 
 import com.gyt.springboot.component.LoginHandlerInterceptor;
 import com.gyt.springboot.component.MyLocaleResolver;
+import org.springframework.boot.web.server.WebServerFactory;
+import org.springframework.boot.web.server.WebServerFactoryCustomizer;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.web.servlet.LocaleResolver;
@@ -12,6 +14,7 @@ import org.springframework.web.servlet.config.annotation.WebMvcConfigurerAdapter
 
 @Configuration
 public class MyMvcConfig extends WebMvcConfigurerAdapter {
+
     @Override
     public void addViewControllers(ViewControllerRegistry registry) {
 //        super.addViewControllers(registry);

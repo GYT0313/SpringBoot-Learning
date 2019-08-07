@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="$PROJECT_DIR$/../spring-boot-starter-test/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../spring-boot-starter-test/src/main/java/com/gyt/springboot/SpringBootStarterTestApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/gyt-spring-boot-starter-autoconfigurer/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/gyt-spring-boot-starter-autoconfigurer/src/main/java/com/gyt/starter/HelloServiceAutoConfiguration.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/gyt-spring-boot-starter-autoconfigurer/src/main/resources/META-INF/spring.factories">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/gyt-spring-boot-starter/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$MAVEN_REPOSITORY$/com/gyt/starter/gyt-spring-boot-starter/1.0-SNAPSHOT/gyt-spring-boot-starter-1.0-SNAPSHOT.pom">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

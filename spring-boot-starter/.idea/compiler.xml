@@ -11,7 +11,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="gyt-spring-boot-starter" target="1.5" />
+      <module name="gyt-spring-boot-starter" target="1.8" />
       <module name="gyt-spring-boot-starter-autoconfigurer" target="1.8" />
     </bytecodeTargetLevel>
   </component>

@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/gyt-spring-boot-starter/gyt-spring-boot-starter.iml" filepath="$PROJECT_DIR$/gyt-spring-boot-starter/gyt-spring-boot-starter.iml" />
       <module fileurl="file://$PROJECT_DIR$/gyt-spring-boot-starter-autoconfigurer/gyt-spring-boot-starter-autoconfigurer.iml" filepath="$PROJECT_DIR$/gyt-spring-boot-starter-autoconfigurer/gyt-spring-boot-starter-autoconfigurer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gyt-spring-boot-starter-autoconfigurer/gyt-spring-boot-starter-autoconfigurer.iml" filepath="$PROJECT_DIR$/gyt-spring-boot-starter-autoconfigurer/gyt-spring-boot-starter-autoconfigurer.iml" />
     </modules>
   </component>
 </project>

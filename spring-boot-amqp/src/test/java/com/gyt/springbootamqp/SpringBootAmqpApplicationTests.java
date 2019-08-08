@@ -3,6 +3,10 @@ package com.gyt.springbootamqp;
 import com.gyt.springbootamqp.bean.Book;
 import org.junit.Test;
 import org.junit.runner.RunWith;
+import org.springframework.amqp.core.AmqpAdmin;
+import org.springframework.amqp.core.Binding;
+import org.springframework.amqp.core.DirectExchange;
+import org.springframework.amqp.core.Queue;
 import org.springframework.amqp.rabbit.core.RabbitTemplate;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
@@ -18,6 +22,25 @@ public class SpringBootAmqpApplicationTests {
 
     @Autowired
     RabbitTemplate rabbitTemplate;
+
+    @Autowired
+    AmqpAdmin amqpAdmin;
+
+    @Test
+    public void createExchange() {
+//        amqpAdmin.declareExchange(new DirectExchange("amqpadmin.exchange"));
+
+//        amqpAdmin.declareQueue(new Queue("amqpadmin.queue", true));
+
+        // 创建binding
+        amqpAdmin.declareBinding(new Binding("amqpadmin.queue",
+                Binding.DestinationType.QUEUE, "amqpadmin.exchange",
+                "amqp.haha", null));
+
+
+        System.out.println("创建完成");
+    }
+
 
     /**
      * 1. 单播（点对点）
@@ -48,6 +71,6 @@ public class SpringBootAmqpApplicationTests {
      */
     @Test
     public void sendMsg() {
-        rabbitTemplate.convertAndSend("exchange.fanout", "", new Book("桑果", "aa"));
+        rabbitTemplate.convertAndSend("exchange.fanout", "", new Book("红楼梦", "aa"));
     }
 }

@@ -1,0 +1,5 @@
+
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(¨Íº´ýÿÿÿÿ8”ÿöÍÈ-
+]squid:UnusedPrivateMethod",Remove this unused private "myStore" method.(Üš§šýÿÿÿÿ8ÂÐ÷ÍÈ-
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ü‚åÊþÿÿÿÿ8ÂÐ÷ÍÈ-

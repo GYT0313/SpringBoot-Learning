@@ -1,0 +1,13 @@
+
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(Üˆ¢Èüÿÿÿÿ8êÉŸÓÈ-
+Wsquid:S2274":Remove this call to "wait" or move it into a "while" loop.(ç£ŠM8Þì ÓÈ-
+{squid:S2273"^Move this call to "wait()" into a synchronized block to be sure the monitor on "this" is held.(ç£ŠM8”Ë¦ÓÈ-
+dsquid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8Þì ÓÈ-
+Fsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8Þì ÓÈ-
+dsquid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8”Ë¦ÓÈ-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(©å©‚þÿÿÿÿ8êÉŸÓÈ-
+Wsquid:S2274":Remove this call to "wait" or move it into a "while" loop.(ç£ŠM8”Ë¦ÓÈ-
+{squid:S2273"^Move this call to "wait()" into a synchronized block to be sure the monitor on "this" is held.(ç£ŠM8Þì ÓÈ-
+Fsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8”Ë¦ÓÈ-

@@ -1,0 +1,10 @@
+
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÿ©Èâüÿÿÿÿ
+O
+squid:S106&"9Replace this use of System.out or System.err by a logger.(¡àìŒ
+Vsquid:UnusedPrivateMethod"1Remove this unused private "Student" constructor.(™¾Òß
+O
+squid:S106""9Replace this use of System.out or System.err by a logger.(…ð¾Œ
+Wsquid:UnusedPrivateMethod"-Remove this unused private "function" method.( ŽÕ¶ùÿÿÿÿ
+†"squid:ClassVariableVisibilityCheck"SMake address a static final constant or non-public and provide accessors if needed.(€ªµúÿÿÿÿÿ

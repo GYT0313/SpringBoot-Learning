@@ -1,0 +1,8 @@
+
+Jsquid:S1602",Remove useless curly braces around statement(¥—ýð8ï¬Â÷È-
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÌÒÿà8“¿À÷È-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ßþ¥Ôûÿÿÿÿ8ï¬Â÷È-
+nsquid:CommentedOutCodeLine
+"<This block of commented-out lines of code should be removed.(áíüÈùÿÿÿÿ8“¿À÷È-
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÁÑõ–8éú»÷È-

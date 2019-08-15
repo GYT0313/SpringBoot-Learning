@@ -1,0 +1,19 @@
+
+Osquid:S1612",Replace this lambda with a method reference.(¿µàöúÿÿÿÿ8ÌøÈ-
+qsquid:S1602"SRemove useless curly braces around statement and then remove useless return keyword(°²•¥8€—“øÈ-
+Osquid:S1602",Remove useless curly braces around statement(¿µàöúÿÿÿÿ8ÌøÈ-
+Osquid:S1602",Remove useless curly braces around statement(ŠÀ¿óúÿÿÿÿ8£³™øÈ-
+Rsquid:S1611"/Remove the parentheses around the "s" parameter(ŠÀ¿óúÿÿÿÿ8£³™øÈ-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(Å­Ëİúÿÿÿÿ8ÌøÈ-
+Jsquid:S1612",Replace this lambda with a method reference.(å òŸ8åèŸøÈ-
+V
+squid:S106!"9Replace this use of System.out or System.err by a logger.(Ê‡˜ç8˜şøÈ-
+Osquid:S1612",Replace this lambda with a method reference.(ŠÀ¿óúÿÿÿÿ8§Ç™øÈ-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(Å­Ëİúÿÿÿÿ8£³™øÈ-
+vsquid:S1602"SRemove useless curly braces around statement and then remove useless return keyword(Ñ–×ùÿÿÿÿ8ÿš”øÈ-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(å òŸ8åèŸøÈ-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(¯æó¯8öÁ–üÈ-

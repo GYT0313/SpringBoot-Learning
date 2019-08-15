@@ -1,0 +1,158 @@
+
+K
+collection1/collection1.iml,d\3\d3a9d52e09004cf0e67625803fde85c09b2287bd
+[
++collection1/src/com/gyt/LinkedListDemo.java,9\2\92ca37e1383bab66355f002ec5da57dd61c40536
+T
+$collection1/src/com/gyt/Generic.java,6\c\6c4ee7b38306cddf3f10e8d7fa3dc8f18a77e81b
+X
+(collection1/src/com/gyt/GenericImpl.java,1\8\1849670fba4ffb7a6e412c53d43d82f2a973592a
+Q
+!collection1/src/com/gyt/Main.java,9\1\9199925b40d0cfa01d8196c21de8c29a3eab3752
+H
+io/src/com/gyt/Copy.java,8\d\8d1cb5ead92caef7458d4dbd766661f75df485f4
+9
+	io/io.iml,a\7\a7451ea968b699383b82160affc33377f35d4fb2
+:
+
+io/oos.txt,1\8\18031315f9b0a45acb933efbc8994b6c6c28c799
+K
+io/src/com/gyt/Student.java,8\2\825d3fa0940c82bb6d76400cbcbaf1220935c16d
+R
+"io/src/com/gyt/PropertiesDemo.java,f\3\f3486795f2f69058d4bbbc3d2489537e8fa08ca2
+P
+ io/src/com/gyt/ObjectStream.java,4\d\4dd5b6f5daf83f7bfaae65802f5c8a8012187818
+9
+	io/fw.txt,b\d\bd5c4399d3294842a0649d40c2359227f06be22e
+A
+thread/thread.iml,8\a\8a3d43e75fca489260ea4bba859bc5cc1c2f4eb1
+P
+ thread/src/com/gyt/MyThread.java,2\b\2ba85e572ffdcaeca72ac2f0a8ba42f2e22446b5
+T
+$thread/src/com/gyt/MyThreadDemo.java,d\9\d95fa8cb100a58893cfce3cdc1ddbd2692fd63d4
+R
+"thread/src/com/gyt/MyRunnable.java,e\b\eb84e669d25deb880b9536578790138272ece2e6
+V
+&thread/src/com/gyt/MyRunnableDemo.java,f\8\f8477ebaa97ed6e1a4c0e24c67d75dc54da9e415
+R
+"thread/src/com/gyt/SellTicket.java,6\2\62548f0c925a172e1dd44c78113985ce618bf92f
+V
+&thread/src/com/gyt/SellTicketDemo.java,b\b\bbca40377e624b62b0a40c3deb2da45415a31442
+P
+ thread/src/com/gyt/Producer.java,5\5\550f7dda7f62740c63103cbdc11b9879cfa52646
+P
+ thread/src/com/gyt/Consumer.java,f\3\f3f8abb52e5d62b7c862d02919ce6c73829c4907
+O
+thread/src/com/gyt/BoxDemo.java,a\f\af1b90f15446e4f04ea37db5f8936aeead57cb08
+K
+thread/src/com/gyt/Box.java,6\6\66e40d37416eb67889d00257f15079bdd1674de0
+P
+ Net/src/com/gyt/ReceiveDemo.java,5\2\5244bec2f7e591335ec9add2894ce3d54b4d79ea
+M
+Net/src/com/gyt/SendDemo.java,9\9\990807cbd83a3d143f729dac10f51ace10ab89fa
+V
+&Net/src/com/gyt/SocketReceiveDemo.java,5\d\5d7b5cc51e512b50f2b3941a4fead5cae0433177
+O
+Net/src/com/gyt/SocketDemo.java,b\0\b0742f0d06d83887ad0ee5b5db3a91e15b97bcdd
+P
+ Net/src/com/gyt2/ServerDemo.java,7\9\7977aaeae8094c862987018f072c5aaaf6aa818b
+P
+ Net/src/com/gyt2/ClientDemo.java,f\a\fa0f0de2e94d68141ffc255ebddf882b15abd6d8
+P
+ Net/src/com/gyt3/ClientDemo.java,a\6\a66524c00ac04b0e8bd0b8ae092212278988d845
+P
+ Net/src/com/gyt3/ServerDemo.java,9\6\9678ee6cee65ba1bac765fdc239a132ec1e3b81a
+P
+ Net/src/com/gyt4/ClientDemo.java,1\e\1e656128c9bf37ccb92f762900e842aea151afbe
+P
+ Net/src/com/gyt4/ServerDemo.java,6\e\6e9313771256ea1be4c318258b570e7ff0e26a93
+P
+ Net/src/com/gyt5/ServerDemo.java,d\3\d3dc5227cc374f51b0fca235500e080f4945636f
+P
+ Net/src/com/gyt5/ClientDemo.java,3\f\3f90ac98975a05bd417aa3d6bccb593f6a315269
+P
+ Net/src/com/gyt6/ClientDemo.java,6\7\674620194271cc38f063291a944613b394ad76f3
+R
+"Net/src/com/gyt6/ServerThread.java,d\8\d83240abda69b0779dd7c70b010e1eb65ea54cc4
+P
+ Net/src/com/gyt6/ServerDemo.java,8\9\89a4b6d91709def1b1a1c6c56885aecf21c85ff8
+A
+Lambda/Lambda.iml,f\5\f5e3e0abc4bc89825ab77ebe8ce16567e61372af
+R
+"Lambda/src/com/gyt/MyRunnable.java,1\2\12a78e014cf0a93f759098605244b368eb1ab1af
+N
+Lambda/src/com/gyt/Etable.java,5\6\56c85f1ab7c5db087d24824897d74b5d24d940fb
+S
+#Lambda/src/com/gyt/EatableImpl.java,7\4\7422ecfe67f921c3514a2ce4066cdb5518c67631
+S
+#Lambda/src/com/gyt/EatableDemo.java,5\d\5d73975c281c8fedf99fa96f7a301a92d350fb29
+O
+Lambda/src/com/gyt/Addable.java,f\b\fb77aa2d18b18512ba33b94a2d971b0e1f1150ea
+O
+Lambda/src/com/gyt/Flyable.java,6\b\6b89bddd018fa576593a63b663050f56b91de8c6
+S
+#Lambda/src/com/gyt/FlyableDemo.java,d\a\daf1d99c353e72de1398495b6ef7c69bf0e6d848
+S
+#Lambda/src/com/gyt/AddableDemo.java,6\2\625e3a20d51e2b5f68285bb60f4d43b996e37dad
+R
+"Lambda/src/com/gyt/LambdaDemo.java,3\b\3ba363a8ee6b815b6e78caa92e6c1f0945dda689
+S
+#Lambda/src/com/gyt/LambdaDemo2.java,9\0\90acda4dc4ee36036e3eff145a5b376257e60fb6
+U
+%Lambda/src/com/gyt/PredicateDemo.java,4\3\43dadc70c737cd79904f7107db74cd4e2c054e69
+V
+&Lambda/src/com/gyt/PredicateDemo2.java,c\9\c90dd164b0ae8bcbd70fbb3914ba0459421a19da
+T
+$Lambda/src/com/gyt/FunctionDemo.java,2\e\2e698d6ef95df269e9d37747e8f667dcbbc22292
+R
+"Lambda/src/com/gyt/StreamDemo.java,e\1\e180b13236219b412ec9a452c40e19f1699a39d8
+T
+$Reflect/src/com/gyt/ReflectDemo.java,4\2\424b066f2668a77fd71993c29741e5aada192d7b
+P
+ Reflect/src/com/gyt/Student.java,1\1\11d5151c3a20c3d672ad58faea973689661bf33a
+V
+&Reflect/src/com/gyt1/ReflectDemo1.java,3\f\3f62fb19a43a411971e2fb31ca5d1cf2766afa4e
+Q
+!Reflect/src/com/gyt1/Student.java,f\4\f43e7f287c8517435562345a5c18f9b9c53568c5
+U
+%Reflect/src/com/gyt2/ReflectDemo.java,e\9\e916eb85c9fc68e9f8ac9df69059cdb8790434c2
+Q
+!Reflect/src/com/gyt2/Student.java,9\6\96bb52f7487bd2c3b9109cd6b6e0a77fe890a8f4
+Q
+!Reflect/src/com/gyt3/Student.java,e\0\e0d101ffd45c03f7f13d1fb86414aeabed9c4a68
+U
+%Reflect/src/com/gyt3/ReflectDemo.java,1\c\1ca3d0828200725395ecc9438a56361010361a2f
+U
+%Reflect/src/com/gyt4/ReflectDemo.java,5\b\5b784134dec7b2102c726d60d4c8a3e2c28b6c53
+U
+%Reflect/src/com/gyt5/ReflectDemo.java,f\6\f64357abd696e466abd4a4b68a063895c3652cbb
+U
+%Reflect/src/com/gyt6/ReflectDemo.java,6\9\69d055ffee83d0847f9133fd806520ce11df7db6
+U
+%Reflect/src/com/gyt7/ReflectDemo.java,4\8\4871ea5fb6c2e9714adb2f1c6ded73334c326901
+R
+"Reflect/src/com/gyt08/Teacher.java,8\6\86a6cc0cc5c5d1360d823d5b57147d2e910162e3
+R
+"Reflect/src/com/gyt08/Student.java,3\7\37eea972f1b0b4b3bfb067b9a49d9301e4e887fd
+A
+Reflect/class.txt,c\9\c99f254d51a0a67e763669819441f8c7b1074beb
+V
+&Reflect/src/com/gyt08/ReflectDemo.java,1\3\136158ac8584c32cd6ff2a6a6115141720f5d31a
+O
+myOne/src/com/gyt1/Student.java,f\f\ff25073ec2971e0c05e088cca5e5518586f58a1f
+O
+myOne/src/com/gyt2/Teacher.java,9\2\92713c799bb6c1dcac909a785de63441226520ca
+L
+myTwo/src/cn/gyt/Test01.java,6\4\643041f80391bb60ce9ffac70746370f4b62e542
+J
+myTwo/src/module-info.java,f\b\fb02d42b13d74dd4242cd3bf7a73e8483b8ee2e8
+K
+myTwo/src/cn/gyt/Test2.java,9\2\92fa6868aa3f7c902c09efe983d863f07098bbca
+Q
+!myOne/src/com/gyt3/MyService.java,4\a\4a862c1fa0ab94b5fdb17681c3c151b6da2bd4e7
+T
+$myOne/src/com/gyt3/impl/Itheima.java,c\8\c8b98bf5b25a37ad85adfb51bdf9af18edc33427
+Q
+!myOne/src/com/gyt3/impl/Czxy.java,c\9\c98ce5bde8edca6f7fc4f6ea15f52de549a90862
+J
+myOne/src/module-info.java,c\d\cd7e35ace48a3b64fe93c70bec2aad0a1572c109

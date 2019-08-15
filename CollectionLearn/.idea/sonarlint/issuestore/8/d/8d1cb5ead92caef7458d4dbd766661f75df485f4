@@ -1,0 +1,9 @@
+
+Msquid:S2093H"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8Ê©€ËÈ-
+psquid:S2095J"RUse try-with-resources or close this "BufferedOutputStream" in a "finally" clause.(€ß­¼8‚ËËÈ-
+[
+squid:S106y"9Replace this use of System.out or System.err by a logger.(Şîé„ıÿÿÿÿ8°½ÅËÈ-
+Fsquid:S1148R"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8³‡ËÈ-
+isquid:S3027s"KPut single-quotes around '\\' to use the faster "lastIndexOf(char)" method.(çãØ8°½ÅËÈ-
+isquid:S3027A"KPut single-quotes around '\\' to use the faster "lastIndexOf(char)" method.(êåÂ‚8Ôˆ½ÇÈ-
+Fsquid:S1148\"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ßèƒËÈ-

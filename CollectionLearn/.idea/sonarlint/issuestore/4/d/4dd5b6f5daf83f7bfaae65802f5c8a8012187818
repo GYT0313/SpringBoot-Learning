@@ -1,0 +1,5 @@
+
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ú“Üİ8îÇëÌÈ-
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(îÈúÆ8Î£¥ÍÈ-
+rsquid:S2095"OUse try-with-resources or close this "ObjectInputStream" in a "finally" clause.(ÚáÈ‹ÿÿÿÿÿ8îÇëÌÈ-
